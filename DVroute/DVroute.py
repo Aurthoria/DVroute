@@ -5,7 +5,7 @@ import prettytable as pt
 import threading
 from threading import Thread
 
-__author__ = '黄泸明'
+__author__ = 'mingkwind'
 '''
 addr2rName字典为建立地址和路由器名的一一对应
 '''
